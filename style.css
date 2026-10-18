@@ -235,6 +235,14 @@ body {
 #bring-me-in {
     background: var(--bring-me-in);
 }
+/* HOLD ME TIGHTER */
+#hold-me-tighter {
+    background:#59637b;
+}
+/* PLEASE BUNNY */
+#please-bunny {
+    background:#4d3965;
+    }
 /* SLOW DOWN */
 #slow-down {
     background: var(--slow-down);
